@@ -1,0 +1,13 @@
+var _data = require('./data');
+
+
+
+
+// Store the user
+_data.create('users',phone,userObject,function(err){
+  if(!err){
+    callback(200);
+  } else {
+    callback(500,{'Error' : 'Could not create the new user'});
+  }
+});
