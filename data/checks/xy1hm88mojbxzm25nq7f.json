@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"id":"xy1hm88mojbxzm25nq7f","userPhone":"8888888812","protocol":"https","url":"http://206.189.35.117/nhandulieu/giaothuc_get.php?sensor=cambiennhietdo1&value=40","method":"get","successCodes":[200,201],"timeoutSeconds":1,"state":"down","lastChecked":1528556230360}
+=======
+{"id":"xy1hm88mojbxzm25nq7f","userPhone":"8888888812","protocol":"https","url":"http://206.189.35.117/nhandulieu/giaothuc_get.php?sensor=cambiennhietdo1&value=40","method":"get","successCodes":[200,201],"timeoutSeconds":1,"state":"down","lastChecked":1527491684883}
+>>>>>>> 86316512c7ff9462015cce3d24a143acec9db72d

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {"check":{"id":"cg2pwijpo5lqyu1w29lu","userPhone":"5555555555","protocol":"https","url":"twitter.com","method":"get","successCodes":[200,201,301,302],"timeoutSeconds":1,"state":"up","lastChecked":1527267283859},"outcome":{"error":false,"responseCode":200},"state":"up","alert":false,"time":1528555688330}
 {"check":{"id":"cg2pwijpo5lqyu1w29lu","userPhone":"5555555555","protocol":"https","url":"twitter.com","method":"get","successCodes":[200,201,301,302],"timeoutSeconds":1,"state":"up","lastChecked":1528555688330},"outcome":{"error":false,"responseCode":200},"state":"up","alert":false,"time":1528555748185}
 {"check":{"id":"cg2pwijpo5lqyu1w29lu","userPhone":"5555555555","protocol":"https","url":"twitter.com","method":"get","successCodes":[200,201,301,302],"timeoutSeconds":1,"state":"up","lastChecked":1528555748185},"outcome":{"error":false,"responseCode":200},"state":"up","alert":false,"time":1528555808247}
@@ -8,3 +9,6 @@
 {"check":{"id":"cg2pwijpo5lqyu1w29lu","userPhone":"5555555555","protocol":"https","url":"twitter.com","method":"get","successCodes":[200,201,301,302],"timeoutSeconds":1,"state":"up","lastChecked":1528556048223},"outcome":{"error":false,"responseCode":200},"state":"up","alert":false,"time":1528556109253}
 {"check":{"id":"cg2pwijpo5lqyu1w29lu","userPhone":"5555555555","protocol":"https","url":"twitter.com","method":"get","successCodes":[200,201,301,302],"timeoutSeconds":1,"state":"up","lastChecked":1528556109253},"outcome":{"error":false,"responseCode":200},"state":"up","alert":false,"time":1528556168239}
 {"check":{"id":"cg2pwijpo5lqyu1w29lu","userPhone":"5555555555","protocol":"https","url":"twitter.com","method":"get","successCodes":[200,201,301,302],"timeoutSeconds":1,"state":"up","lastChecked":1528556168239},"outcome":{"error":false,"responseCode":200},"state":"up","alert":false,"time":1528556228208}
+=======
+{"check":{"id":"cg2pwijpo5lqyu1w29lu","userPhone":"5555555555","protocol":"https","url":"twitter.com","method":"get","successCodes":[200,201,301,302],"timeoutSeconds":1,"state":"up","lastChecked":1527491632090},"outcome":{"error":false,"responseCode":200},"state":"up","alert":false,"time":1527491685507}
+>>>>>>> 86316512c7ff9462015cce3d24a143acec9db72d
